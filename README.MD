@@ -4,6 +4,7 @@
 
 * [Description](#description)
 * [Tools & Dependencies](#tools)
+* [Contributing](#contributing)
 
 ## Description
 
@@ -16,3 +17,7 @@ Other python libraries used are:
 * Torchvision
 * Numpy
 * Pytorch
+
+## Contributing
+
+If you want to contribute, check out [contribute.md](contribute.md).
