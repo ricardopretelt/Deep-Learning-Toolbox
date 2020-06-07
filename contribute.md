@@ -4,7 +4,7 @@ First of all, I am very happy that you find my code useful. I am working really 
 
 If you would like to use the code for one of your projects do not forget to give me some credit, that way I can continue pushing more open source work.
 
-If you want to contribute to this repository making improvements, or adding new features, let's discuss the changes. You can message me via [linkedin](https://www.linkedin.com/in/ricardoepretelt/) That way we can coordinate for the best. I am always open for new ideas!
+If you want to contribute to this repository making improvements, or adding new features, you can follow the pull request process below. Don't forget to make an issue first so we can coordinate for the best results. I am always open to new ideas!
 
 ## Pull Request Process
 
